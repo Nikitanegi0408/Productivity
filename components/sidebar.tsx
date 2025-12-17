@@ -32,7 +32,7 @@ export function Sidebar() {
             href="/"
             className="mb-6 flex h-8 w-8 items-center justify-center bg-primary text-primary-foreground"
           >
-            <span className="text-sm font-bold">P</span>
+            <span className="text-sm font-bold">F</span>
           </Link>
 
           <nav className="flex flex-col gap-2">
